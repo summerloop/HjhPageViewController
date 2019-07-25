@@ -1,0 +1,16 @@
+PODS:
+  - JhPageViewController (0.0.3)
+
+DEPENDENCIES:
+  - JhPageViewController (from `../`)
+
+EXTERNAL SOURCES:
+  JhPageViewController:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  JhPageViewController: 2e098d6924cdcd48d86f35677dc8d951611eb7a6
+
+PODFILE CHECKSUM: a50aef70d1674c33c4932ea07541fc039e7d9e38
+
+COCOAPODS: 1.7.5
